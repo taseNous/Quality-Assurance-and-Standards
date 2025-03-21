@@ -6,7 +6,7 @@ The FCM model. Users in a quality assurance system. Quality Plan and Quality Man
 
 Tasks <br>
 
-1. The document details a vending machine simulation using HPetriSim, where customers buy soft drinks with €1 and €2 coins. Transactions follow set probabilities, tracking purchases, inventory, and change. <br>
-2. The tasks analyze user interaction efficiency using KLM modeling. Task 1 evaluates keyboard vs. mouse input for a library form, while Task 2 estimates time for booking a museum visit based on keystrokes and mouse actions. <br>
-3. Two C programs sort numbers in ascending and descending order. The task analyzes their operators, Halstead metrics, complexity, and efficiency. <br>
-4. The task involves analyzing a C program, evaluating its correctness, understanding its circuit complexity, counting execution paths, and designing test cases.
+1. A vending machine simulation using HPetriSim, where customers buy soft drinks with €1 and €2 coins. Transactions follow set probabilities, tracking purchases, inventory, and change. <br>
+2. User interaction efficiency using KLM modeling. Task 1 evaluates keyboard vs. mouse input for a library form, while Task 2 estimates time for booking a museum visit based on keystrokes and mouse actions. <br>
+3. Two C programs sort numbers in ascending and descending order. Their operators, Halstead metrics, complexity, and efficiency are analyzed. <br>
+4. Analyzing a C program, evaluating its correctness, understanding its circuit complexity, counting execution paths, and designing test cases.
