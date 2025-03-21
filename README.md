@@ -4,7 +4,9 @@ The FCM model. Users in a quality assurance system. Quality Plan and Quality Man
 <hr>
 <br>
 
-1
+Tasks <br>
+
+1. Two C programs sort numbers in ascending and descending order. The task analyzes their operators, Halstead metrics, complexity, and efficiency. <br>
 2
 3
 4. The task involves analyzing a C program, evaluating its correctness, understanding its circuit complexity, counting execution paths, and designing test cases.
